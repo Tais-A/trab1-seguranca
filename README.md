@@ -8,4 +8,7 @@ Segurança Computacional - UnB - Turma 2 - 2/2023
 ----------
 ## Run 
 
-`python menu.py`
+```
+pip install -r requirements.txt
+python menu.py
+```
