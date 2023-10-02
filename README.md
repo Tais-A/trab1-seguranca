@@ -2,7 +2,7 @@
 
 Segurança da computacional - UnB
 
-Eder de Amaral
-Tais Alves Oliveira
+* Eder de Amaral
+* Tais Alves Oliveira
 
 
